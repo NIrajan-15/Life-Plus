@@ -1,5 +1,8 @@
 <resources>
     <string name="app_name">Life Plus</string>
-    <string name="email">email</string>
-    <string name="password">password</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="need_help">Need Help?</string>
+    <string name="submit">Submit</string>
+    <string name="new_user">New User</string>
 </resources>
