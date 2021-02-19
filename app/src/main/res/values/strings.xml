@@ -9,4 +9,6 @@
     <string name="register">Register</string>
     <string name="name">Name</string>
     <string name="c_password">Confirm Password</string>
+    <string name="receive">Receive</string>
+    <string name="donate">Donate</string>
 </resources>
