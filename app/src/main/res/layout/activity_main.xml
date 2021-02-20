@@ -19,7 +19,7 @@
             android:layout_width="match_parent"
             android:layout_height="191dp"
             android:layout_marginTop="80dp"
-            android:src="@drawable/lifepluslogo"
+            android:src="@drawable/lifeplus"
             android:layout_marginBottom="5dp"
 
 
@@ -66,6 +66,7 @@
         android:orientation="vertical"
         >
         <Button
+            android:id="@+id/loginbtn"
             android:layout_width="106dp"
             android:layout_height="wrap_content"
             android:onClick="login"
@@ -74,6 +75,7 @@
 
 
         <Button
+            android:id="@+id/register_button"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:onClick="register"
