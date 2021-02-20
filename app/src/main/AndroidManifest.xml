@@ -9,8 +9,13 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.LifePlus">
+
         <activity android:name=".RegisterActivity"></activity>
         <activity android:name=".LoginActivity" />
+        <activity android:name=".DonateReceive" />
+        <activity android:name=".DonateActivity" />
+        <activity android:name=".ReceiveActivity" />
+
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
