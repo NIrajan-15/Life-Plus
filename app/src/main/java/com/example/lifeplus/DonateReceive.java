@@ -11,7 +11,7 @@ public class DonateReceive extends AppCompatActivity {
 
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.donate_recieve);
+        setContentView(R.layout.activity_donate_recieve);
 
         Button button = (Button) findViewById(R.id.donatebtn);
         button.setOnClickListener(new View.OnClickListener() {

@@ -20,8 +20,6 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View view) {
                 Intent redirect = new Intent(getApplicationContext(), LoginActivity.class);
                 startActivity(redirect);
-
-
             }
 
 
