@@ -1,2 +1,2 @@
 # Life-Plus
-Blood donation app connecting donor and receiver.
+A Blood Donation app that connects donors and receivers.
